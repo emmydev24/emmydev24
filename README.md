@@ -1,7 +1,5 @@
 # 💖 Nice to meet you! Me chamo Emilly 💖
 
-![fundo rosa](https://via.placeholder.com/1200x300/FF69B4/FFFFFF?text=Nice+to+meet+you%21)
-
 🎓 Estudante de **Desenvolvimento Web** na [EBAC - Escola Britânica de Artes Criativas e Tecnologia](https://ebaconline.com.br)  
 🌱 Atualmente aprendendo: **HTML, CSS, Git e GitHub**  
 💡 Buscando evoluir todos os dias como desenvolvedora!
