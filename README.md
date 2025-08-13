@@ -1,4 +1,4 @@
-# 💖 Nice to meet you! Me chamo Emilly 💖
+# 💖 Me chamo Emilly 💖
 
 🎓 Estudante de **Desenvolvimento Web** na [EBAC - Escola Britânica de Artes Criativas e Tecnologia](https://ebaconline.com.br)  
 🌱 Atualmente aprendendo: **HTML, CSS, Git e GitHub**  
